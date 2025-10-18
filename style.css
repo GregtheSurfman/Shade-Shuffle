@@ -1,0 +1,35 @@
+/* 
+  ===== Shade Shuffle Styles =====
+  This file defines the layout and visual appearance of the Shade Shuffle app.
+  Students can modify colors, font styles, or spacing to explore CSS customization.
+*/
+
+/* Base body styling */
+body {
+  /* Centers text and elements */
+  text-align: center;
+
+  /* Sets a clean, readable font */
+  font-family: Arial, sans-serif;
+
+  /* Default background color (will be changed dynamically using JS) */
+  background-color: #ffffff;
+
+  /* Removes default margins and adds padding for spacing */
+  margin: 0;
+  padding: 50px;
+}
+
+/* Button styling */
+button {
+  /* Adds padding around text inside the button */
+  padding: 10px 20px;
+
+  /* Increases font size for better visibility */
+  font-size: 16px;
+
+  /* Changes cursor to pointer when hovered */
+  cursor: pointer;
+
+  /* TODO: Students can experiment by adding hover effects or colors here */
+}
