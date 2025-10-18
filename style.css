@@ -25,6 +25,7 @@ body {
 button {
   /* Adds padding around text inside the button */
   padding: 10px 20px;
+  border-radius: 50%;
   
 
   /* Increases font size for better visibility */
